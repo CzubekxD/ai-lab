@@ -1,0 +1,16 @@
+# Sekrety
+.env
+.env.*
+*.key
+credentials*.json
+
+# Pliki modeli
+*.gguf
+*.safetensors
+*.bin
+*.pt
+*.ckpt
+
+# Systemowe
+.DS_Store
+Thumbs.db

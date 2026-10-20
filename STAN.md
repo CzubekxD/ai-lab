@@ -15,8 +15,7 @@ Szczebel 0, ćwiczenie 0.1 (temperatura) na lokalnym modelu w LM Studio. Opis: [
 
 ## Otwarte decyzje
 
-- **Q17:** jaki plan Google na prywatnym koncie? Od tego zależy, czy `=AI()` i Workspace Studio przećwiczę też w domu.
-- **Q20:** przypadek przewodni przez całą drabinę. Rekomendacja: digest AI z n8n. Alternatywa: budżet domowy od paragonu po agenta.
+Pytania czekające na odpowiedź, bieżące zadania i notatki są w artefakcie „Notatnik ai-lab” na claude.ai (prywatny).
 
 ## Do zrobienia: infrastruktura
 

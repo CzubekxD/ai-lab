@@ -1,9 +1,0 @@
-{
-  "name": "notatnik",
-  "version": "0.1.0",
-  "description": "Notatnik ai-lab w panelu bocznym: bieżące zadania ze STAN.md, otwarte decyzje i szybkie notatki do NOTATKI.md",
-  "types": "./types/index.d.ts",
-  "author": {
-    "name": "Mati"
-  }
-}
